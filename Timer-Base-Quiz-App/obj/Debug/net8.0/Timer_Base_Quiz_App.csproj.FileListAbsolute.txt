@@ -1,0 +1,14 @@
+C:\Users\std\source\repos\Timer-Base-Quiz-App\Timer-Base-Quiz-App\bin\Debug\net8.0\Timer_Base_Quiz_App.exe
+C:\Users\std\source\repos\Timer-Base-Quiz-App\Timer-Base-Quiz-App\bin\Debug\net8.0\Timer_Base_Quiz_App.deps.json
+C:\Users\std\source\repos\Timer-Base-Quiz-App\Timer-Base-Quiz-App\bin\Debug\net8.0\Timer_Base_Quiz_App.runtimeconfig.json
+C:\Users\std\source\repos\Timer-Base-Quiz-App\Timer-Base-Quiz-App\bin\Debug\net8.0\Timer_Base_Quiz_App.dll
+C:\Users\std\source\repos\Timer-Base-Quiz-App\Timer-Base-Quiz-App\bin\Debug\net8.0\Timer_Base_Quiz_App.pdb
+C:\Users\std\source\repos\Timer-Base-Quiz-App\Timer-Base-Quiz-App\obj\Debug\net8.0\Timer_Base_Quiz_App.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\std\source\repos\Timer-Base-Quiz-App\Timer-Base-Quiz-App\obj\Debug\net8.0\Timer_Base_Quiz_App.AssemblyInfoInputs.cache
+C:\Users\std\source\repos\Timer-Base-Quiz-App\Timer-Base-Quiz-App\obj\Debug\net8.0\Timer_Base_Quiz_App.AssemblyInfo.cs
+C:\Users\std\source\repos\Timer-Base-Quiz-App\Timer-Base-Quiz-App\obj\Debug\net8.0\Timer_Base_Quiz_App.csproj.CoreCompileInputs.cache
+C:\Users\std\source\repos\Timer-Base-Quiz-App\Timer-Base-Quiz-App\obj\Debug\net8.0\Timer_Base_Quiz_App.dll
+C:\Users\std\source\repos\Timer-Base-Quiz-App\Timer-Base-Quiz-App\obj\Debug\net8.0\refint\Timer_Base_Quiz_App.dll
+C:\Users\std\source\repos\Timer-Base-Quiz-App\Timer-Base-Quiz-App\obj\Debug\net8.0\Timer_Base_Quiz_App.pdb
+C:\Users\std\source\repos\Timer-Base-Quiz-App\Timer-Base-Quiz-App\obj\Debug\net8.0\Timer_Base_Quiz_App.genruntimeconfig.cache
+C:\Users\std\source\repos\Timer-Base-Quiz-App\Timer-Base-Quiz-App\obj\Debug\net8.0\ref\Timer_Base_Quiz_App.dll
